@@ -22,7 +22,7 @@ const Navbar = () => {
                             src="/dt1.png" 
                             width={120} 
                             height={80}
-                            alt="Float UI logo"
+                            alt="Dt Pattern Master"
                         />
                     </Link>
                   <div className="md:hidden">
