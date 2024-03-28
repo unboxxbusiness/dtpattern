@@ -19,7 +19,7 @@ const Navbar = () => {
               <div className="flex items-center justify-between py-3 md:py-5 md:block">
                     <Link href="/">
                         <Image
-                            src="/dt1.png" 
+                            src="/Dt1.png" 
                             width={120} 
                             height={80}
                             alt="Dt Pattern Master"
