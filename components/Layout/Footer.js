@@ -25,7 +25,7 @@ const Footer = () => {
         <footer className="pt-10">
             <div className="max-w-screen-xl mx-auto px-4 text-gray-600 md:px-8">
                 <div className="space-y-6 sm:max-w-md sm:mx-auto sm:text-center">
-                    <Image src="/dt1.png" className="w-32 sm:mx-auto" alt="" width={120} height={80} />
+                    <Image src="/Dt1.png" className="w-32 sm:mx-auto" alt="" width={120} height={80} />
                     <p>
                         Discover endless possibilities in fashion design with DT Pattern Master - where creativity meets craftsmanship.
                     </p>
